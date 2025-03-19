@@ -48,8 +48,6 @@ This project allows automatic text summarization using the DeepSeek API integrat
 - Summarization generation using LangChain and DeepSeek
 - Interactive interface built with Streamlit
 
-![App Demo](assets/demo.gif)
-
 ```py
 # Author Info
 
